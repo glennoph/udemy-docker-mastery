@@ -145,3 +145,5 @@ $RECYCLE.BIN/
 # Windows shortcuts
 *.lnk
 
+# emacs save files
+*~
